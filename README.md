@@ -22,6 +22,4 @@ The happiness score is the sum of the 6 contributions.
 
 # Code
 DataIntegration.ipynb: Combining data from the years 2015 to 2019, along with preliminary preprocessing                                                                   
-EDA.ipynb: Exploratory Data Analysis and Visualizations
-
-Model.ipynb: Training and Testing Forecasting models
+EDA.ipynb: Exploratory Data Analysis and Visualizations                                                                                                                            Model.ipynb: Training and Testing Forecasting models
