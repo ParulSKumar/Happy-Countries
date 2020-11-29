@@ -24,3 +24,10 @@ The happiness score is the sum of the 6 contributions.
 DataIntegration.ipynb: Combining data from the years 2015 to 2019, along with preliminary preprocessing                                                                   
 EDA.ipynb: Exploratory Data Analysis and Visualizations   
 Model.ipynb: Training and Testing Forecasting models
+
+# Instructions to Run
+Run DataIntegration.ipynb to preprocess and integrate the data.
+The cleaned and integrated data is stored in data.csv. [FINAL DATA]
+Run EDA.ipynb for EDA and visualization
+Run Model.ipynn for model training
+No other specific instructions
