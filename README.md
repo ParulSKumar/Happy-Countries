@@ -28,6 +28,5 @@ Model.ipynb: Training and Testing Forecasting models
 # Instructions to Run
 Run DataIntegration.ipynb to preprocess and integrate the data.
 The cleaned and integrated data is stored in data.csv. [FINAL DATA]
-Run EDA.ipynb for EDA and visualization
-Run Model.ipynn for model training
-No other specific instructions
+Run EDA.ipynb for EDA and visualization.
+Run Model.ipynb for model training.                                                                                                                                               No other specific instructions.
